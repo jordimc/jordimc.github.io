@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "git commit -b 'Initial commit'"
-date:   2018-06-25 22:44:23 +0100
+title:  "git commit -m 'Initial commit'"
+date:   2019-01-17
 categories: blog
 published: true
 ---
